@@ -1,8 +1,5 @@
 {
-	"firstName": {
-		"en": "First Name"
-	},
-	"action": {
-		"en": "Press Me!"
+	"default": {
+		"en": "Hello World!"
 	}
 }
